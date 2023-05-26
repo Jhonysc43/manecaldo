@@ -63,7 +63,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #DCDCDC;
+    color: #390101;
     background-color: #DCDCDC;
 }
 
@@ -72,7 +72,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #DCDCDC;
+    color: #390101;
     background-color: #DCDCDC;
 }
 
@@ -82,8 +82,8 @@ hr.star-primary:after {
 
 header {
     text-align: center;
-    color: #850505;
-    background: #850505;
+    color: #390101;
+    background: #390101;
 }
 
 header .container {
@@ -181,8 +181,8 @@ section h2 {
 }
 
 section.success {
-    color: #850505;
-    background: #850505;
+    color: #390101;
+    background: #390101;
 }
 
 @media(max-width:767px) {
