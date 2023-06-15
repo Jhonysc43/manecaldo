@@ -8,5 +8,4 @@ project-date: junho 2023
 client: Cliente
 category: comidas típicas
 description: Este é um caldo de feijão
-
 ---
